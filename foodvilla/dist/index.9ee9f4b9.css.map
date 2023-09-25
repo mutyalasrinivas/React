@@ -1,0 +1,1 @@
+{"mappings":"ACAA,yBAGA","sources":["index.9ee9f4b9.css","src/styles.css"],"sourcesContent":["h1 {\n  background-color: #ff0;\n}\n\n* {\n  text-align: center;\n}\n\n/*# sourceMappingURL=index.9ee9f4b9.css.map */\n","h1{\r\n background-color: yellow;\r\n}\r\n*{\r\n   text-align: center;\r\n}"],"names":[],"version":3,"file":"index.9ee9f4b9.css.map"}
